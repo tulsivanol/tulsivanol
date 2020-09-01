@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tulsi Vanol</h1>
 <h3 align="center">A passionate android and full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tulsivanol" alt="tulsivanol" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=tulsivanol" alt="tulsivanol" /> </p>
 
 - 🔭 I’m currently working as **developer and freelancer at ex-firm**
 
